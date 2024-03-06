@@ -4,7 +4,7 @@
   </head>
   <body>
     <?php
-      echo "Latihan Fork Sejak Dini!!!";
+      echo "Latihan Fork Seja";
     ?>
   </body>
 </html>

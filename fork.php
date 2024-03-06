@@ -5,5 +5,6 @@
   <body>
     <?php
       echo "Latihan Fork Sejak Dini!!!";
+    ?>
   </body>
 </html>
